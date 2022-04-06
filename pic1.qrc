@@ -1,0 +1,52 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>pics/login.png</file>
+    <file>pics/new user.png</file>
+    <file>pics/cart2.webp</file>
+    <file>pics/dress.webp</file>
+    <file>pics/home.webp</file>
+    <file>pics/Orange Crop Top.png</file>
+    <file>pics/cart.png</file>
+    <file>pics/bag.png</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.53.28 AM (1).jpeg</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.53.28 AM (2).jpeg</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.53.28 AM.jpeg</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.50.00 AM (1).jpeg</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.50.00 AM.jpeg</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.50.01 AM (1).jpeg</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.50.01 AM (2).jpeg</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.50.01 AM.jpeg</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.50.02 AM.jpeg</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.39.32 AM (1).jpeg</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.39.31 AM.jpeg</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.39.32 AM.jpeg</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.39.33 AM (1).jpeg</file>
+    <file>pics/_Image_2020-12-03_at_10.09.27_PM_1_.png</file>
+    <file>pics/App_Image_2020-12-03_at_10.09.26_PM.png</file>
+    <file>pics/App_Image_2020-12-03_at_10.09.27_PM.png</file>
+    <file>pics/App_Image_2020-12-03_at_10.09.28_PM.png</file>
+    <file>pics/WhatsApp-Image-2020-12-04-at-6.27.08-PM.png</file>
+    <file>pics/WhatsApp-Image-2020-12-04-at-6.27.16-PM.png</file>
+    <file>pics/WhatsApp-Image-2020-12-04-at-6.27.16-PM-_1_.png</file>
+    <file>shop.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>pics/house-icon-shopping.png</file>
+    <file>pics/WhatsApp Image 2020-12-05 at 10.39.33 AM.jpeg</file>
+  </qresource>
+  <qresource>
+    <file>pics/WhatsApp-Image-2020-12-03-at-9.51.43-PM.png</file>
+    <file>pics/WhatsApp-Image-2020-12-03-at-9.51.43-PM-_1_.png</file>
+    <file>pics/WhatsApp-Image-2020-12-03-at-9.51.43-PM-_2_.png</file>
+    <file>pics/WhatsApp-Image-2020-12-03-at-9.51.44-PM.png</file>
+    <file>pics/WhatsApp-Image-2020-12-04-at-6.27.08-PM.png</file>
+    <file>pics/WhatsApp-Image-2020-12-04-at-6.27.16-PM.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>pics/Black Mesh Top.png</file>
+    <file>pics/Black Tunic Top.png</file>
+    <file>pics/Orange Crop Top.png</file>
+    <file>pics/Pink Floral Top.png</file>
+    <file>pics/Pink Tunic Top.png</file>
+  </qresource>
+</RCC>
